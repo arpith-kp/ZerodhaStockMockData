@@ -33,7 +33,7 @@ colorlog==4.1.0
 confluent-kafka==1.4.2
 contextvars==2.4
 croniter==0.3.34
-cryptography==2.9.2
+cryptography==3.2
 cycler==0.10.0
 cymem==2.0.3
 Cython==0.29.20
