@@ -23,7 +23,7 @@ blis==0.4.1
 catalogue==1.0.0
 cchardet==2.1.6
 celery==4.4.5
-certifi==2020.4.5.1
+certifi==2022.12.7
 cffi==1.14.0
 chardet==3.0.4
 ciso8601==2.1.3
